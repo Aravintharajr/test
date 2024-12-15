@@ -19,3 +19,5 @@ https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-p
 https://github.com/ms0g/vml/tree/main
 
 https://branchfree.org/2024/06/09/a-draft-taxonomy-of-simd-usage/
+
+https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
